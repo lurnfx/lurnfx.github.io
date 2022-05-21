@@ -9,6 +9,7 @@ body
 .box{
 	width: 100%;
 	overflow: none;
+	overflow-wrap: Break-word;
 	
 
 }
